@@ -23,7 +23,7 @@ The code is released for academic research use only. For commercial use, please 
 
 Clone this repo.
 ```bash
-git clone https://github.com/NVlabs/SPADE.git
+git clone https://github.com/GuillaumeAI/SPADE.git
 cd SPADE/
 ```
 
